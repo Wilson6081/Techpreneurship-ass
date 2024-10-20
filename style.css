@@ -1,0 +1,885 @@
+/*Mobile View CSS(main) 375px - 428px*/
+.first-section-child {
+    position: absolute;
+    top: -25px;
+    left: -16px;
+    background-color: #395d51;
+    width: 100%;
+    height: 510px;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 168px;
+    letter-spacing: 0.33em;
+    font-weight: 800;
+    display: inline-block;
+    width: 190px;
+    height: 156px;
+}
+.green-chair-child {
+    position: absolute;
+    top: 124.78px;
+    left: 17.49px;
+    width: 308.5px;
+    height: 100.2px;
+    object-fit: contain;
+}
+.whatsapp-image-2024-10-15-at-1 {
+    position: absolute;
+    top: 67.83px;
+    left: 0px;
+    width: 340.6px;
+    height: 136px;
+    object-fit: cover;
+}
+.green-chair {
+    position: absolute;
+    top: 270px;
+    left: 0px;
+    width: 358px;
+    height: 225px;
+    font-size: 70px;
+    color: #57796b;
+}
+.sit-in-style {
+    position: absolute;
+    top: 193px;
+    left: calc(50% - 215px);
+    font-size: 19px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    color: #c9c9c9;
+    text-align: center;
+    width: 380px;
+}
+.modern-interior {
+    margin: 0;
+}
+.modern-interior-design-container {
+    position: absolute;
+    top: 79px;
+    left: calc(50% - 270px);
+    font-size: 28px;
+    letter-spacing: 0.33em;
+    text-align: center;
+}
+.shopnow-button-child {
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    border-radius: 51px;
+    background-color: #f8bc28;
+    width: 110px;
+    height: 40px;
+}
+.shop-now {
+    position: absolute;
+    top: calc(50% - 6px);
+    left: calc(55% - 53px);
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 100px;
+    height: 15px;
+    font-size: small;
+}
+.shopnow-button {
+    position: absolute;
+    top: 0px;
+    left: 210px;
+    width: 130px;
+    height: 44px;
+    color: #000;
+}
+.explore-button-child {
+    position: absolute;
+    height: 100%;
+    width: 100px;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 51px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px solid #fff;
+    box-sizing: border-box;
+}
+.explore {
+    position: absolute;
+    height: 34.09%;
+    width: 67.69%;
+    top: 34.09%;
+    left: 13.46%;
+    letter-spacing: 0.33em;
+    font-size: small;
+    display: inline-block;
+}
+.explore-button {
+    position: absolute;
+    height: 8.89%;
+    width: 31.86%;
+    top: 0.01%;
+    right: 38.24%;
+    bottom: 91.1%;
+    left: 21.9%;
+}
+.fontistonav-icon-a {
+    position: absolute;
+    top: 12px;
+    left: 8px;
+    width: 28px;
+    height: 24px;
+    overflow: hidden;
+}
+.first-section {
+    position: absolute;
+    top: 25px;
+    left: 16px;
+    width: 100%;
+    height: 495px;
+    color: #fff;
+}
+.crafted-box-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px;
+    background-color: #eef3ef;
+    width: 274px;
+    height: 355px;
+}
+.explore-button-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 51px;
+    background-color: #000;
+    width: 100px;
+    height: 52px;
+}
+.explore1 {
+    position: absolute;
+    top: calc(50% - 6px);
+    left: calc(50% - 46.5px);
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 89.9px;
+    height: 17.6px;
+}
+.explore-button1 {
+    position: absolute;
+    top: 285px;
+    left: 22px;
+    width: 100px;
+    height: 52px;
+    color: #fff;
+}
+.revolutionize-your-finances {
+    position: absolute;
+    top: 170px;
+    left: 21px;
+    font-size: 16px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 252px;
+    height: 94px;
+}
+.crafted-with-excellent {
+    position: absolute;
+    top: 26px;
+    left: 22px;
+    font-size: 24px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 205px;
+}
+.crafted-box {
+    width: 274px;
+    position: relative;
+    height: 355px;
+    flex-shrink: 0;
+    text-align: left;
+    font-size: 15px;
+}
+.group-child {
+    position: absolute;
+    top: 142px;
+    left: 0px;
+    border-radius: 15px;
+    background-color: #dee7e6;
+    width: 274px;
+    height: 254px;
+    visibility: hidden;
+}
+.group-child:hover {
+    visibility: visible;
+    display: block;
+}
+
+.f664bbc-2a0b-40dd-86ae-ee19cc4-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 274px;
+    height: 296px;
+    object-fit: cover;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 274px;
+    height: 396px;
+}
+.nordic-chair-5000-container {
+    position: absolute;
+    top: 303px;
+    left: 71px;
+    letter-spacing: 0.33em;
+    font-weight: 600;
+}
+.circle-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #000;
+    width: 55.3px;
+    height: 47px;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 10.21px;
+    background-color: #d9d9d9;
+    width: 6.6px;
+    height: 28.2px;
+}
+.group-inner {
+    position: absolute;
+    top: 17.35px;
+    left: 0px;
+    background-color: #d9d9d9;
+    width: 6.5px;
+    height: 28.4px;
+    transform:  rotate(-90deg);
+    transform-origin: 0 0;
+}
+.rectangle-group {
+    position: absolute;
+    top: 9px;
+    left: 13px;
+    width: 28.4px;
+    height: 28.2px;
+}
+.circle {
+    position: absolute;
+    top: 365px;
+    left: 107px;
+    width: 55.3px;
+    height: 47px;
+}
+.nordic-chair {
+    width: 274px;
+    position: relative;
+    height: 412px;
+    flex-shrink: 0;
+}
+.nordic-chair:hover {
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.kruzo-chair-child {
+    position: absolute;
+    top: 35px;
+    left: 0px;
+    border-radius: 22px;
+    background-color: #eef3ef;
+    width: 271px;
+    height: 325px;
+}
+.kruzo-aero-chair-container {
+    position: absolute;
+    top: 272px;
+    left: 58px;
+    letter-spacing: 0.33em;
+    font-weight: 600;
+}
+.whatsapp-image-2024-10-15-at-11 {
+    position: absolute;
+    top: 0px;
+    left: 6px;
+    width: 258px;
+    height: 252px;
+    object-fit: cover;
+}
+.kruzo-chair {
+    width: 271px;
+    position: relative;
+    height: 360px;
+    flex-shrink: 0;
+}
+.ergonomic-chair-child {
+    position: absolute;
+    top: 59px;
+    left: 0px;
+    border-radius: 22px;
+    background-color: #eef3ef;
+    width: 234px;
+    height: 302px;
+}
+.ergonomic-chair-4300-container {
+    position: absolute;
+    top: 273px;
+    left: 29px;
+    letter-spacing: 0.33em;
+    font-weight: 600;
+}
+.e70125f6-c700-475e-a21a-60594e-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 234px;
+    height: 264px;
+    object-fit: cover;
+}
+.ergonomic-chair {
+    width: 234px;
+    position: relative;
+    height: 361px;
+    flex-shrink: 0;
+}
+.second-section {
+    position: absolute;
+    top: 602px;
+    left: 10px;
+    /* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+    width: 100%;
+    overflow: auto;              /*Enables scrolling*/
+    -ms-overflow-style: none;   /*Hide scroll bar for firefox*/
+    scrollbar-width: none;      /*Hide scroll bar for chrome and safari and others*/
+    display: flex;
+    scrollbar-color: rgb(223, 26, 26);
+    scroll-behavior: smooth;
+    flex-direction:row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 15px;
+    text-align: center;
+    font-size: 14px;
+    
+}
+.why-choose-us-section-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #eef3ef;
+    width: 396px;
+    height: 600px;
+}
+.donec-vitao-odio-container {
+    position: absolute;
+    top: 454px;
+    left: 235.73px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 137.6px;
+}
+.hassle-free-return {
+    position: absolute;
+    top: 415px;
+    left: 235.73px;
+    font-size: 14px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 182.3px;
+}
+.r-2-icon {
+    position: absolute;
+    top: 368px;
+    left: 235.73px;
+    width: 30.7px;
+    height: 35px;
+    object-fit: cover;
+}
+.donec-vitao-odio-container1 {
+    position: absolute;
+    top: 454px;
+    left: 18.4px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 179.6px;
+}
+.support {
+    position: absolute;
+    top: 415px;
+    left: 19.28px;
+    font-size: 14px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 124.4px;
+}
+.oip-18-icon {
+    position: absolute;
+    top: 368px;
+    left: 19.28px;
+    width: 42.9px;
+    height: 35px;
+    object-fit: cover;
+}
+.donec-vitao-odio-container2 {
+    position: absolute;
+    top: 234px;
+    left: 235.73px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 137.6px;
+}
+.easy-to-shop {
+    position: absolute;
+    top: 195px;
+    left: 235.73px;
+    font-size: 14px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 122.7px;
+}
+.fast-shopping-logo-icon-design {
+    position: absolute;
+    top: 160px;
+    left: 235.73px;
+    width: 30.7px;
+    height: 35px;
+    object-fit: cover;
+}
+.donec-vitao-odio-container3 {
+    position: absolute;
+    top: 234px;
+    left: 18.4px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 177.9px;
+}
+.fast-free {
+    position: absolute;
+    top: 195px;
+    left: 18.4px;
+    font-size: 14px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 199.8px;
+}
+.oip-17-removebg-preview-1-icon {
+    position: absolute;
+    top: 160px;
+    left: 19.28px;
+    width: 30.7px;
+    height: 35px;
+    object-fit: cover;
+}
+.introducing-the-ultimate {
+    position: absolute;
+    top: 77px;
+    left: calc(50% - 180px);
+    font-size: 16px;
+    letter-spacing: 0.33em;
+    text-align: center;
+    display: inline-block;
+    width: 319.9px;
+}
+.why-choose-us {
+    position: absolute;
+    top: 34px;
+    left: calc(50% - 160px);
+    font-size: 24px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 284px;
+}
+.why-choose-us-section {
+    width: 418px;
+    position: relative;
+    height: 600px;
+}
+.div1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: 0.33em;
+    font-weight: 800;
+    display: inline-block;
+    width: 264.4px;
+    height: 292.7px;
+}
+.b7a7d6e-f1f0-40cf-9a71-58efc3c-icon {
+    position: absolute;
+    top: 79.2px;
+    left: 28.15px;
+    width: 389.8px;
+    height: 446.8px;
+    object-fit: cover;
+}
+.third-section-image {
+    width: 370px;
+    position: relative;
+    height: 526px;
+    font-size: 70px;
+    color: #dfd48e;
+    overflow: hidden;
+}
+.third-section {
+    position: absolute;
+    top: 1074px;
+    left: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+    font-size: 12px;
+}
+.div2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: 0.33em;
+    font-weight: 800;
+    display: inline-block;
+    width: 179.4px;
+    height: 151px;
+}
+.whatsapp-image-2024-10-15-at-12 {
+    position: absolute;
+    top: 54.2px;
+    left: 31.26px;
+    border-radius: 20px;
+    width: 250.1px;
+    height: 392.5px;
+    object-fit: cover;
+}
+.whatsapp-image-2024-10-15-at-13 {
+    position: absolute;
+    top: 252.93px;
+    left: 239.11px;
+    border-radius: 20px;
+    width: 178.9px;
+    height: 234.9px;
+    object-fit: cover;
+}
+.whatsapp-image-2024-10-15-at-14 {
+    position: absolute;
+    top: 54.2px;
+    left: 292.95px;
+    border-radius: 20px;
+    width: 125.1px;
+    height: 182.3px;
+    object-fit: cover;
+}
+.last-images {
+    width: 370px;
+    position: relative;
+    height: 487.8px;
+    overflow: hidden;
+}
+.explore-button-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 51px;
+    background-color: #000;
+    width: 100px;
+    height: 52px;
+}
+.explore2 {
+    position: absolute;
+    top: calc(50% - 6.39px);
+    left: calc(50% - 56.17px);
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 115.8px;
+    height: 17.6px;
+}
+.explore-button2 {
+    position: absolute;
+    top: 394px;
+    left: 0px;
+    width: 100px;
+    height: 52px;
+    font-size: 20px;
+    color: #fff;
+}
+.donec-vitec-odio-quis-nisi-dap {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 16px;
+}
+.donec-vitec-odio-container {
+    position: absolute;
+    top: 300px;
+    left: 264.15px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 130px;
+}
+.donec-vitec-odio-container1 {
+    position: absolute;
+    top: 216px;
+    left: 264.15px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 130px;
+}
+.donec-vitec-odio-container2 {
+    position: absolute;
+    top: 300px;
+    left: 0px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 156.8px;
+}
+.donec-vitec-odio-container3 {
+    position: absolute;
+    top: 216px;
+    left: 0px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 162.6px;
+}
+.dnoec-facilitues-quem-container {
+    position: absolute;
+    text-wrap:wrap;
+    top: 75px;
+    left: 0px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 385.2px;
+    font-size: 12px;
+}
+.we-help-you-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 20px;
+    letter-spacing: 0.33em;
+    display: inline-block;
+    width: 352.2px;
+}
+.we-help-section {
+    width: 418px;
+    position: relative;
+    height: 446px;
+    font-size: 12px;
+    color: #000;
+}
+.last-section {
+    position: absolute;
+    top: 2280px;
+    left: 10px;
+    width: 418px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 20px;
+    font-size: 70px;
+    color: #426d59;
+}
+.iphone-16-pro-max-1 {
+    width: 100%;
+    position: relative;
+    background-color: #eef3ef;
+    height: 3259px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 15px;
+    color: #000;
+    font-family: Inter;
+}
+
+#scrollLeft {
+    position: absolute;
+    display:none;
+}
+#scrollRight {
+    position: absolute;
+    left: 100px;
+    display: none;
+}
+/*End of Mobile View CSS(main) 375px - 428px*/
+
+
+
+/*media query for tablets and phone landscape*/
+@media (min-width: 760px) and (max-width: 834px) {
+    .first-section{
+        min-width: 100%;
+        max-width: 834px;
+        height: 420px;
+    }
+    .first-section-child {
+        width: 100%;
+        margin: 0;
+        padding: 0%;
+        height: 420px;
+    }
+    .green-chair {
+        left: 50%;
+        top: 30%;
+        position: relative;
+    }
+    .sit-in-style {
+        position: relative;
+        top: auto;
+        word-wrap:break-word;
+        left: -1%;
+    }
+    .modern-interior-design-container {
+        position: absolute;
+        top: 79px;
+        left: calc(50% - 340px);
+        font-size: 28px;
+        letter-spacing: 0.33em;
+        text-align: center;
+    }
+    .shopnow-button {
+        position: absolute;
+        top: 0px;
+        left: 550px;
+        width: 130px;
+        height: 44px;
+        color: #000;
+    }
+    .explore-button {
+        position: absolute;
+        height: 8.89%;
+        width: 100px;
+        top: 0.01%;
+        right: 38.24%;
+        bottom: 91.1%;
+        left: 50.9%;
+    }
+    .second-section {
+        top: 450px;
+    }
+    .third-section {
+        position: absolute;
+        top: 920px;
+        left: 10px;
+        min-width: 760px;
+        display: flex;
+        flex-direction: row;
+        overflow: hidden;
+    }
+    .last-section {
+        position: absolute;
+        top: 1600px;
+        left: 10px;
+        width: 418px;
+        flex-direction: row;
+        min-width: 760px;
+        overflow: hidden;
+    }
+}
+/*End of media query for tablets and phone landscape*/
+
+
+
+
+/*media query for laptops*/
+@media (min-width: 1269px) and (max-width: 1920px) {
+    .first-section-child {
+        width: 100%;
+        height: 350px;
+    }
+    .green-chair {
+        position: absolute;
+        top: 6%;
+        bottom: 50%;
+        left: 60%;
+        width: 450px;
+        height: 350px;
+        font-size: 70px;
+        color: #57796b;
+    }
+    .green-chair-child {
+        position: absolute;
+        top: 150.78px;
+        left: 17.49px;
+        width: 398.5px;
+        height: 160.2px;
+        object-fit: contain;
+    }
+    .whatsapp-image-2024-10-15-at-1 {
+        position: absolute;
+        top: 67.83px;
+        left: 0px;
+        width: 400.6px;
+        height: 196px;
+        object-fit: cover;
+    }
+    .modern-interior-design-container {
+        left: calc(22% - 270px);
+    }
+    .sit-in-style {
+        top: 150px;
+        left: calc(17% - 215px);
+    }
+    .shopnow-button {
+        left: 100px;
+        top: 50.5%;
+        position: absolute;
+    }
+    .explore-button {
+        position: absolute;
+        top: 50%;
+        left: 0;
+    }
+    .second-section{
+        top: 350px;
+        left: 6.5%;
+        
+    }
+    .third-section {
+        position: absolute;
+        top: 800px;
+        left: 10px;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+    }
+    .why-choose-us-section {
+        position:absolute;
+        left: 4.5%;
+        text-wrap: none;
+    }
+    .why-choose-us-section-child {
+        position:absolute;
+        text-wrap: none;
+    }
+    .third-section-image {
+        width: 670px;
+        position: absolute;
+        left: 50%;
+        height: 526px;
+        font-size: 70px;
+        color: #dfd48e;
+        overflow: hidden;
+    }
+    .b7a7d6e-f1f0-40cf-9a71-58efc3c-icon {
+        width: 520.8px;
+        height: 446.8px;
+    }
+    .last-section {
+        top: 1400px;
+        width: 100%;
+        flex-direction: row;
+        gap: 250px;
+    }
+    .last-images {
+        width: 500px;
+        position: relative;
+        height: 487.8px;
+        left: 4.5%;
+    }
+}
